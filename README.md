@@ -3,3 +3,6 @@
 - Used MySQL queries to explore database. 
 - Loaded into Power BI, modeled data using star schema design 
 - cleaned and transformed data using Power Query Editor.
+
+## Snapshot of the dashboard 
+![Snapshot of dashboard](Global Store Performance_001.png)
